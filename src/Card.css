@@ -35,3 +35,18 @@
 button{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.box.blank{
+    color:black;
+    border: black; 
+}
+
+.box.green{
+    color:green;
+    border: green;
+}
+
+.box.red{
+    color:red;
+    border: red; 
+}
